@@ -2,7 +2,7 @@
 
 Task 1:Data Cleaning and data Preprossesing
 For data Pre-Processing I have choosen a dataset from kaggle.com named as "Netflix_Titles.csv"
-\n it consists of 11 columns named as show-id,name,type,duration etc
+/n it consists of 11 columns named as show-id,name,type,duration etc
 to clean this data i have used python libraries like numpy and pandas in jupyter notebook.Some of the steps which I have done in oder to clean and preprocess the dataset are:\n
 Removing NULL values\n
 Dealing with missing values \n
